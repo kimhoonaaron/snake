@@ -15,7 +15,7 @@ DISP_WIDTH = 600
 DISP_HEIGHT = 400
 
 # Set the size and speed of the snake
-SNAKE_SIZE = 16
+SNAKE_SIZE = 20
 SNAKE_SPEED = 15
 
 class Snake:
@@ -128,3 +128,4 @@ def game_loop():
 
 if __name__ == "__main__":
     game_loop()
+print("push file")
